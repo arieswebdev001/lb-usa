@@ -1,0 +1,2 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1524635992;s:6:"expire";d:9999999999;s:4:"tags";s:37:"7f8_CONFIG_SCOPES,7f8_CONFIG,7f8_MAGE";}
+a:1:{s:7:"general";a:9:{s:15:"enable_frontend";s:1:"1";s:5:"title";s:11:"most viewed";s:4:"auto";s:1:"0";s:10:"pagination";s:3:"500";s:3:"qty";N;s:4:"rows";s:1:"4";s:14:"show_next_back";s:1:"1";s:23:"show_navigation_control";s:1:"0";s:5:"speed";s:4:"3000";}}
